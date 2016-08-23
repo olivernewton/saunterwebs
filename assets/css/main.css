@@ -237,13 +237,8 @@ header {
 .logo {
   clear: both;
   align-items: right;
-<<<<<<< HEAD
   padding-top: 15px;
   padding-left: 20px; }
-=======
-  padding-top: 10px;
-  padding-left: 15px;}
->>>>>>> origin/gh-pages
   @media screen and (max-width: 550px) {
     .logo {
       padding-left: 32%; } }
@@ -694,13 +689,13 @@ h2 {
   font-size: 60px;
   margin-top: 0px;
   padding-top: 75px;
-  margin-left: 70px; }
+  margin-left: 35px; }
 
 form {
   max-width: 450px;
   margin-left: auto;
   margin: 0 auto 50px;
-  padding-left: 150px;
+  padding-left: 30px;
   padding-right: 50px; }
 
 input, textarea {
