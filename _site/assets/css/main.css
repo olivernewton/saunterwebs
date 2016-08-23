@@ -238,8 +238,12 @@ header {
   clear: both;
   align-items: right;
 <<<<<<< HEAD
+<<<<<<< HEAD
   padding-top: 15px;
   padding-left: 20px; }
+=======
+  padding-top: 10px; }
+>>>>>>> parent of 083bfc4... Ready gh
 =======
   padding-top: 10px; }
 >>>>>>> parent of 083bfc4... Ready gh
@@ -479,7 +483,11 @@ hr {
   margin-left: 0px; }
   .contact .formcontact {
 <<<<<<< HEAD
+<<<<<<< HEAD
     //margin-left: 0px; }
+=======
+    margin-left: 0px; }
+>>>>>>> parent of 083bfc4... Ready gh
 =======
     margin-left: 0px; }
 >>>>>>> parent of 083bfc4... Ready gh
@@ -493,6 +501,7 @@ hr {
     @media screen and (max-width: 450px) {
       .contact h2 {
 <<<<<<< HEAD
+<<<<<<< HEAD
         font-size: 30px;
         padding-left: 25px; } }
   .contact form {
@@ -500,11 +509,16 @@ hr {
     margin: 0 auto 50px;
     padding-left: 20px;
 =======
+=======
+>>>>>>> parent of 083bfc4... Ready gh
         font-size: 30px; } }
   .contact form {
     max-width: 550px;
     margin: 0 auto 50px;
     padding-left: 50px;
+<<<<<<< HEAD
+>>>>>>> parent of 083bfc4... Ready gh
+=======
 >>>>>>> parent of 083bfc4... Ready gh
     padding-right: 50px; }
     .contact form input, .contact form textarea {
@@ -778,8 +792,12 @@ label {
   .weare h2 {
     color: #45c1c6;
 <<<<<<< HEAD
+<<<<<<< HEAD
     padding-bottom: 10px;
     margin-left: 0px;}
+=======
+    padding-bottom: 10px; }
+>>>>>>> parent of 083bfc4... Ready gh
 =======
     padding-bottom: 10px; }
 >>>>>>> parent of 083bfc4... Ready gh
