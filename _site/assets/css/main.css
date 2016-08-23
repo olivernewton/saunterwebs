@@ -237,8 +237,12 @@ header {
 .logo {
   clear: both;
   align-items: right;
+<<<<<<< HEAD
   padding-top: 15px;
   padding-left: 20px; }
+=======
+  padding-top: 10px; }
+>>>>>>> parent of 083bfc4... Ready gh
   @media screen and (max-width: 550px) {
     .logo {
       padding-left: 32%; } }
@@ -474,7 +478,11 @@ hr {
   background-color: white;
   margin-left: 0px; }
   .contact .formcontact {
+<<<<<<< HEAD
     //margin-left: 0px; }
+=======
+    margin-left: 0px; }
+>>>>>>> parent of 083bfc4... Ready gh
   .contact h2 {
     color: #45c1c6;
     text-align: center;
@@ -484,12 +492,20 @@ hr {
     margin-left: 0px; }
     @media screen and (max-width: 450px) {
       .contact h2 {
+<<<<<<< HEAD
         font-size: 30px;
         padding-left: 25px; } }
   .contact form {
     max-width: 550px;
     margin: 0 auto 50px;
     padding-left: 20px;
+=======
+        font-size: 30px; } }
+  .contact form {
+    max-width: 550px;
+    margin: 0 auto 50px;
+    padding-left: 50px;
+>>>>>>> parent of 083bfc4... Ready gh
     padding-right: 50px; }
     .contact form input, .contact form textarea {
       background-color: #ebebeb;
@@ -761,8 +777,12 @@ label {
   background-color: white; }
   .weare h2 {
     color: #45c1c6;
+<<<<<<< HEAD
     padding-bottom: 10px;
     margin-left: 0px;}
+=======
+    padding-bottom: 10px; }
+>>>>>>> parent of 083bfc4... Ready gh
   .weare h4 {
     color: #45c1c6;
     text-align: center;
