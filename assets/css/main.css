@@ -237,7 +237,8 @@ header {
 .logo {
   clear: both;
   align-items: right;
-  padding-top: 10px; }
+  padding-top: 10px;
+  padding-right: 15px;}
   @media screen and (max-width: 550px) {
     .logo {
       padding-left: 32%; } }
