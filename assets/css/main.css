@@ -237,7 +237,8 @@ header {
 .logo {
   clear: both;
   align-items: right;
-  padding-top: 10px; }
+  padding-top: 15px;
+  padding-left: 20px; }
   @media screen and (max-width: 550px) {
     .logo {
       padding-left: 32%; } }
@@ -473,7 +474,7 @@ hr {
   background-color: white;
   margin-left: 0px; }
   .contact .formcontact {
-    margin-left: 0px; }
+    //margin-left: 0px; }
   .contact h2 {
     color: #45c1c6;
     text-align: center;
@@ -483,11 +484,12 @@ hr {
     margin-left: 0px; }
     @media screen and (max-width: 450px) {
       .contact h2 {
-        font-size: 30px; } }
+        font-size: 30px;
+        padding-left: 25px; } }
   .contact form {
     max-width: 550px;
     margin: 0 auto 50px;
-    padding-left: 50px;
+    padding-left: 20px;
     padding-right: 50px; }
     .contact form input, .contact form textarea {
       background-color: #ebebeb;
@@ -759,7 +761,8 @@ label {
   background-color: white; }
   .weare h2 {
     color: #45c1c6;
-    padding-bottom: 10px; }
+    padding-bottom: 10px;
+    margin-left: 0px;}
   .weare h4 {
     color: #45c1c6;
     text-align: center;
